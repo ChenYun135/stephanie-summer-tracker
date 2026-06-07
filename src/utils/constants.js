@@ -1,0 +1,9 @@
+export const LEARNING_GOAL_MINUTES = 300;
+export const PHYSICAL_GOAL_MINUTES = 30;
+export const SETTLEMENT_HOUR = 18;
+export const ELECTRONICS_START_HOUR = 20;
+export const ENTERTAINMENT_END_HOUR = 22;
+export const INITIAL_POINTS = 100;
+export const GIFT_FUND_REWARD_USD = 5;
+export const LEARNING_PENALTY_PER_MINUTES = 10;
+export const PHYSICAL_PENALTY_PER_MINUTES = 5;
